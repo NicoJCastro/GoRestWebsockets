@@ -1,0 +1,15 @@
+github.com/golang-jwt/jwt v3.2.2+incompatible:
+
+Esta biblioteca se utiliza para trabajar con JSON Web Tokens (JWT). Los JWT son un estándar para crear tokens de acceso que pueden ser utilizados para autenticación y autorización en aplicaciones web
+
+github.com/gorilla/mux v1.8.1:
+
+gorilla/mux es un enrutador HTTP para Go que permite definir rutas y manejar solicitudes HTTP de manera más flexible y poderosa que el enrutador estándar de Go. Es muy popular para construir APIs y aplicaciones web.
+
+github.com/gorilla/websocket v1.5.3:
+
+Esta biblioteca proporciona una implementación del protocolo WebSocket en Go. Los WebSockets permiten una comunicación bidireccional en tiempo real entre el cliente y el servidor, lo cual es útil para aplicaciones como chats en tiempo real, notificaciones, etc.
+
+github.com/joho/godotenv v1.5.1:
+
+godotenv se utiliza para cargar variables de entorno desde un archivo .env en el entorno de ejecución de la aplicación. Esto es útil para gestionar configuraciones sensibles como claves de API, credenciales de bases de datos, etc., sin tener que codificarlas directamente en el código fuente.
